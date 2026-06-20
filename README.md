@@ -186,7 +186,7 @@ try {
 | 14  | Error Handling |   15    |
 |     | **TOTAL**      | **100** |
 
-## Pembuat SIM Rental Kamera Canon EOS R50
+## Pembuat Sistem Rental Kamera Canon EOS R50
 
 Nama: Azkaa Muhammad Suta
 NPM: 2410010057
